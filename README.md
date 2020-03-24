@@ -1,0 +1,2 @@
+# TF-IDF
+(5 points) Summarize the text as shown in class: 3.1 Calculate word frequency using two different methods: 3.1.1 Weighted frequency (please specify the math formula) (1 point) (Must use FreqDist to get original word frequencies) 3.1.2 TF-IDF with NLTK (NLTK does not have TF-IDF) (2 points) 3.2 Score the sentences (1 point) 3.3 Build a summary (based on ratio, sentence or word count, etc.) (1 point)
